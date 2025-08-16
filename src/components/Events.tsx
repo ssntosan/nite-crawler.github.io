@@ -66,7 +66,7 @@ const Events = () => {
       { title: "Haymarket Farmers Market – Henna Booth", time: "8:00 AM – 12:30 PM", location: "Haymarket Square", description: "Walk-up designs." }
     ],
     "2025-08-30": [
-      { title: "Haymarket Farmers Market – Henna Booth", time: "8:00 AM – 12:30 PM", location: "Haymarket Square", description: "Walk-up designs." }
+      { title: "Private Henna Event", time: "12:00pm – 5:00 PM", location: "Studio", description: "Event Reserved" }
     ]
   };
 
